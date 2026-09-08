@@ -141,19 +141,3 @@ The project uses:
 
 The **LiquidCrystal_I2C** library is required for the I2C LCD.
 
-## Files
-
-```text
-Ultrasonic-Parking-Sensor/
-├── README.md
-├── Ultrasonic_Parking_Sensor.ino
-├── wiring/
-│   └── wiring-diagram.png
-└── LICENSE
-```
-
-## Project Goal
-
-The goal of this project is to demonstrate how an Arduino can combine **distance sensing, LCD output, and visual warnings** to create a simple parking-assistance system.
-
-The project can be adapted for other applications where detecting the distance to nearby objects is useful.
